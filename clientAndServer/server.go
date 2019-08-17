@@ -30,8 +30,6 @@ func main() {
 		// Go routine for multiple conections
 		go comunication(conn)
 
-		//fmt.Println(time.Since(start))
-
 	}
 
 }

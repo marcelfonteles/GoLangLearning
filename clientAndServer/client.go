@@ -22,7 +22,7 @@ func init() {
 }
 
 func main() {
-	endereco := "192.168.100.14"
+	endereco := "localhost"
 	porta := "3000"
 
 	reader := bufio.NewReader(os.Stdin)
