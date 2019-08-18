@@ -22,3 +22,4 @@
 #### Others
   - Simple Go TCP Server and Client: https://systembash.com/a-simple-go-tcp-server-and-tcp-client/
   - A UDP server and client in Go: https://ops.tips/blog/udp-client-and-server-in-go/  
+  - Golang : UDP client server read write example: https://socketloop.com/tutorials/golang-udp-client-server-read-write-example
