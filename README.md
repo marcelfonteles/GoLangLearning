@@ -19,7 +19,12 @@
 #### Books
   - Go in Practice (Reading...)
   
+#### Some Documentation
+   - Go slices (usage and internals): https://blog.golang.org/go-slices-usage-and-internals  
+  
 #### Others
   - Simple Go TCP Server and Client: https://systembash.com/a-simple-go-tcp-server-and-tcp-client/
   - A UDP server and client in Go: https://ops.tips/blog/udp-client-and-server-in-go/  
   - Golang : UDP client server read write example: https://socketloop.com/tutorials/golang-udp-client-server-read-write-example
+  - Iniciando em ponteiros: https://medium.com/@lucasmagnum/iniciando-em-go-ponteiros-2d990318c0fb
+  
