@@ -60,8 +60,5 @@ func main() {
 		}
 		fmt.Printf("End \n")
 
-
-
-
 	}
 }
