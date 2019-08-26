@@ -14,6 +14,10 @@ func main() {
 	var slice2 = []int{1,2,3,4,5,6,7,8,9}
 	fmt.Println(slice2)
 
+	for index, value := range slice2 {
+		fmt.Println("index:",index, ", value:", value)
+	}
+
 	slice2 = append(slice2[:4], slice2[6:]...)
 	fmt.Println(slice2)
 }
