@@ -126,5 +126,28 @@ func main() {
 		}
 	}
 
+	// Map: key -> string / values -> slice of string
+
+	mapWhatever := map[string][]string{
+		"Marcel": []string{"Cachaça", "Cerveja", "Alcool"},
+		"James": []string{"Shaken not stirred", "Martinis", "Women"},
+	}
+
+	fmt.Println(mapWhatever)
+
+	for key, value := range mapWhatever {
+		fmt.Println("Pessoa:",key,"/ Preferência:", value)
+	}
+
+	for key, value := range mapWhatever {
+		fmt.Printf("Pessoa: %v / Preferência: ", key)
+		for _, value2 := range value {
+			fmt.Printf("%v", value2)
+			if value2 != value[len(value)-1] {
+				fmt.Print(", ")
+			}
+		}
+		fmt.Print("\n")
+	}
 
 }
