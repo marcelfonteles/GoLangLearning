@@ -148,6 +148,7 @@ func main() {
 	delete(mapWhatever, "Cairo")
 	printMap(mapWhatever)
 
+
 }
 
 func printMap(mapWhatever map[string][]string) {
