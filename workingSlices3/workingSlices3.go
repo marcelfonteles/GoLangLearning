@@ -138,7 +138,19 @@ func main() {
 	for key, value := range mapWhatever {
 		fmt.Println("Pessoa:",key,"/ Preferência:", value)
 	}
+	fmt.Println("--------------")
+	printMap(mapWhatever)
 
+	mapWhatever["Cairo"] = []string{"Cerveja", "Fortaleza", "Maconha"}
+
+	printMap(mapWhatever)
+
+	delete(mapWhatever, "Cairo")
+	printMap(mapWhatever)
+
+}
+
+func printMap(mapWhatever map[string][]string) {
 	for key, value := range mapWhatever {
 		fmt.Printf("Pessoa: %v / Preferência: ", key)
 		for _, value2 := range value {
@@ -149,5 +161,5 @@ func main() {
 		}
 		fmt.Print("\n")
 	}
-
+	fmt.Println("------------")
 }
