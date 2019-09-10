@@ -28,3 +28,11 @@
   - Golang : UDP client server read write example: https://socketloop.com/tutorials/golang-udp-client-server-read-write-example
   - Iniciando em ponteiros: https://medium.com/@lucasmagnum/iniciando-em-go-ponteiros-2d990318c0fb
   
+  
+#### Some topics for me (Marcel Vieira)
+    Idea: make something using Iris Framework and using this topics bellow
+- Array
+- Slice
+- Map
+- Struct
+  
