@@ -53,6 +53,7 @@ func main() {
 		doors int
 		wheels int
 		isClose bool
+		killed map[int]string
 	}{
 		name: "Devil's Truck",
 		message: "I'm gonna kill you",
@@ -60,6 +61,11 @@ func main() {
 		doors: 2,
 		wheels: 16,
 		isClose: true,
+		killed: map[int]string{
+			0: "Girl asking for a ride",
+			1: "Bussinessman",
+			2: "Some family in a road trip",
+		},
 	}
 
 	fmt.Println(spilbergTruck)
