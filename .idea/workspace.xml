@@ -3,47 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8d1260d-5856-407b-8b96-94fc948c1c2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitShifting/bitShifting.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientAndServer/client.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientAndServer/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/converting/converting.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/converting/packages/baseTwo.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declareVar/declareVar.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/code/code.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flags/flags.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/functions.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goRoutines/goRoutines.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goTests/goTests.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goTests/goTests_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWeb/helloWeb.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld/.idea/helloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld/helloWorld.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/howManyTimes/howMany.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/howManyTimes/pkg/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedList/linkedList.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mult4/mult4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/percentCourse/percentCourse.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printFile/printFile.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/structsAndPointers/sAndP.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/terminalSize/terminalSize.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/twoReturns/twoReturns.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/typeString/typeString.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workingMaps/workingMaps.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workingMaps2/workiingMaps2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workingSlices/workingSlices.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workingSlices2/workingSlices2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workingSlices3/workingSlices3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workingStructs/workingStructs.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workingStructs2/workingStructs2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workingStructs3/workingStructs3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workingStructs4/workingStructs4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zeroValue/zeroValue.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/geometry" beforeDir="false" afterPath="$PROJECT_DIR$/bin/geometry" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

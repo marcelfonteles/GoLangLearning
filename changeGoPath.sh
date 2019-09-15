@@ -1,0 +1,1 @@
+GOPATH=/home/marcelvieira/Documentos/GoLangLearning/
