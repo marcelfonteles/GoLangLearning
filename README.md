@@ -9,9 +9,16 @@
    - Handling 1 Million Requests per Minute with Golang: https://medium.com/smsjunk/handling-1-million-requests-per-minute-with-golang-f70ac505fcaa
    - Create the smallest and secured golang docker image based on scratch: https://medium.com/@chemidy/create-the-smallest-and-secured-golang-docker-image-based-on-scratch-4752223b7324
    - A visual guide to Go Memory Allocator from scratch (Golang): https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed
-   - Golang — handling errors gracefully:  https://medium .com/hackernoon/golang-handling-errors-gracefully-8e27f1db729f
+   - Golang — handling errors gracefully:  https://medium.com/hackernoon/golang-handling-errors-gracefully-8e27f1db729f
    - Build RESTful API service in golang using gin-gonic framework: https://medium.com/@thedevsaddam/build-restful-api-service-in-golang-using-gin-gonic-framework-85b1a6e176f3
    - Learning Go’s Concurrency Through Illustrations: https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3
+   - Interfaces in Go: https://medium.com/rungo/interfaces-in-go-ab1601159b3a
+   - Interfaces in Go (part I): https://medium.com/golangspec/interfaces-in-go-part-i-4ae53a97479c
+   
+#### Some Mediums Profilesto catch up
+   - Run.go: https://medium.com/rungo
+   - Golang Specs: https://medium.com/golangspec
+    
     
 #### Golang cheatsheet
    - https://devhints.io/go
@@ -35,4 +42,6 @@
 - Slice
 - Map
 - Struct
+- Variadic functions
+- Methods -> functions that are specific to a type of variable
   

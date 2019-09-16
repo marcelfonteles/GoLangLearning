@@ -49,11 +49,9 @@ func (s sedan) racing() {
 	fmt.Println("Brrrr.... 0-60 in 2.5 seconds")
 }
 
-
 func allKindsOfTypes(i interface{}) {
 	fmt.Printf("This function received %T type with value: %v \n", i, i)
 }
-
 
 func main() {
 	var a allCars
