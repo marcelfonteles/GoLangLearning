@@ -31,6 +31,7 @@ type allCars interface {
 	describe()
 }
 
+
 // Methods for car type
 func (c car) startEngine() bool {
 	fmt.Println("Brrrr....")
@@ -41,6 +42,7 @@ func (c car) describe() {
 }
 
 // Methods for sedan type
+
 func (s sedan) startEngine() bool {
 	fmt.Println("Does not make any sound.")
 	return true
@@ -88,6 +90,7 @@ func main() {
 	cars = car1
 	fmt.Println(cars)
 	fmt.Println(cars.(car))
+
 
 	// Some data types
 	var i int = 4
