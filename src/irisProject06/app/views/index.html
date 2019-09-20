@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>My First Iris Project</title>
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+        <style>
+            body {
+                width: 80%;
+                margin: auto;
+            }
+            .row {
+                margin-bottom: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="jumbotron">
+            <h1>Hello World</h1>
+        </div>
+        <div class="container">
+            <form action="/api/post" method="post" class="form-group">
+                <div class="row">
+                    <div class="col-md-2">
+                        <label for="fname" class="">First Name:</label>
+                    </div>
+                    <div class="col-md-10">
+                        <input type="text" name="fname" class="form-control">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <label for="lname" class="">Last Name:</label>
+                    </div>
+                    <div class="col-md-10">
+                        <input type="text" name="lname" class="form-control">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <label for="birthday" class="">Birthday:</label>
+                    </div>
+                    <div class="col-md-4">
+                        <input type="date" name="birthday" class="form-control">
+                    </div>
+                    <div class="col-md-2">
+                        <label for="age" class="">Age:</label>
+                    </div>
+                    <div class="col-md-4">
+                        <input type="number" name="age" class="form-control">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <label for="sex">Sex:</label>
+                    </div>
+                    <div class="col-md-10">
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radioOptionsSex" id="inlineRadio1" value="male">
+                            <label class="form-check-label" for="inlineRadio1">Male</label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radioOptionsSex" id="inlineRadio2" value="female">
+                            <label class="form-check-label" for="inlineRadio2">Female</label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="radioOptionsSex" id="inlineRadio3" value="other">
+                            <label class="form-check-label" for="inlineRadio2">Other</label>
+                        </div>
+                    </div>
+                </div>
+                <button class="btn btn-primary" type="submit">Submit</button>
+            </form>
+        </div>
+    </body>
+</html>

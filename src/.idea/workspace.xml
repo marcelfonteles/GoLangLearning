@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3dcdf10-f5b5-442f-b885-006a7655348b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/github.com/google/go-querystring/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/google/go-querystring/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/hashicorp/go-version/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/hashicorp/go-version/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/kataras/iris/_examples/http-listening/http3-quic/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/kataras/iris/_examples/http-listening/http3-quic/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/kataras/iris/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/kataras/iris/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/kataras/iris/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/kataras/iris/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/kataras/neffos/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/kataras/neffos/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/ryanuber/columnize/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/ryanuber/columnize/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/sanitized_anchor_name/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/shurcooL/sanitized_anchor_name/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/valyala/bytebufferpool/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/valyala/bytebufferpool/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gopkg.in/yaml.v2/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/gopkg.in/yaml.v2/go.mod" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/howMany" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1OtaEHmDoFugNW65Ik5Ar0FPcgQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/infarma/web-dilavor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build src/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/howMany/howMany.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+</project>
